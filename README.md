@@ -1,1 +1,1 @@
-# Osint-tools
+Buatin gw script osint yg bisa nyari NIK, media social (all) tempat tinggal, no hp, buat dan integrasikan jadi bot telegram, juga pakai node js dan buat friendly user ui (bot tele) dan yg powerfull anti dorking juga sama cek nomer telephone dari getcontact dan lain lain kalau lu tau
